@@ -1,4 +1,4 @@
-# 🚀 Operation Celex Strategy (0-100)
+# 💎 Operation Celex Strategy (0-100)
 
 ## Overview
 A strategic approach to Operation Celex, implementing solutions to *******
