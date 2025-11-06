@@ -4,10 +4,7 @@
 A strategic approach to Operation Celex, implementing solutions from 0 to 100.
 
 ### Hint
-```
-*US67066G1040  _434.92K%_*
-```
-*US67066G1040  _434.92K%_*
+- *US67066G1040  _434.92K%_*
 
 ## Getting Started
 More information coming soon...
